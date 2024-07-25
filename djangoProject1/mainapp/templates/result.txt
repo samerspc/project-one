@@ -1,0 +1,78 @@
+<div id="rec541233254" class="r t-rec t-rec_pt_75 t-rec_pb_45" style="padding-top:75px;padding-bottom:45px; "
+         data-animationappear="off" data-record-type="996"><!-- cover -->
+        <div class="t996">
+            <div class="t996__wrapper" style="height: 60vh">
+                <div class="t996__container t-container">
+                    <div class="t996__inner-wrapper t-col t-col_6 t996__valign_top t-align_left"><h1
+                            class="t996__title t-title t-title_md translatable" data-key="mainField" field="title">Добро пожаловать в пространство новых
+                        технологий производства фасадов</h1>
+                        <div class="t996__descr t-descr t-descr_lg translatable" data-key="mainFieldUnder" field="descr">единство искусства и 3D печати</div>
+                    </div>
+                </div>
+                <div class="t996__cover-wrapper" style="width: 69%">
+                    <div class="t996__cover t-bgimg"
+                         data-original="/static/images/nnfEDrZ.jpeg"
+                         style="background-image: url('/static/images/tild6136-3938-4639-b938-356466353035__-__resizeb__20x__luke-jones-z2lqyhso9.jpg'); background-position: center center;"
+                         itemscope itemtype="http://schema.org/ImageObject">
+                        <meta itemprop="image"
+                              content="/static/images/nnfEDrZ.jpeg">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <img src="/static/images/nnfEDrZ.jpeg" id="mainimg" alt="">
+        <style>
+        #mainimg {
+                max-width: calc(100% - 50px);
+                height: auto;
+                position: absolute;
+                top:320px;
+                left: 20px;
+            }
+
+            @media (max-width: 960px) {
+                .t996__cover, t996__cover-wrapper {
+                    display: none;
+                }
+            }
+            @media (min-width: 960px) {
+                #mainimg {
+                    display: none;
+                }
+            }
+            @media (max-width: 580px) {
+                #mainimg {
+                    top: 400px;
+                }
+            }
+            @media (max-width: 335px) {
+                #mainimg {
+                    top: 420px;
+                }
+            }
+
+        #rec541233254 .t996__title {
+            font-size: 24px;
+            color: #000000;
+            font-family: 'Montserrat';
+        }
+        @media (min-width: 1578px) {
+            #rec541233254 .t996__title {
+                width: 450px;
+            }
+        }
+        @media (min-width: 960px) and (max-width: 1577px) {
+            #rec541233254 .t996__title {
+                width: 380px;
+            }
+            #rec541233254 .t996__descr {
+                width: 300px;
+            }
+        }
+        #rec541233254 .t996__descr {
+            color: #000000;
+            font-family: 'Source Code Pro';
+        }</style>
+        <style type="text/css">#rec541233254 .t996__cover:after {
+        }</style>
+    </div>
