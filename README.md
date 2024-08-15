@@ -7,6 +7,6 @@
 4. Избранное (добавление/удаление товаров)
 
 ## Использованные технологии
-Back-end: Django
-Database: PostgreSQL Django ORM
-Front-end: JavaScript, html, css
+1. Back-end: Django
+2. Database: PostgreSQL Django ORM
+3. Front-end: JavaScript, html, css
